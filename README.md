@@ -75,10 +75,4 @@ A simple demo to show a web3 game, developed with [chainSafe SDK for Unity](http
 
 ----
 
-## Credits 
-
-- [Original Repo and credits](https://github.com/ChainSafe/ChainSafe-Demo-WebGLProject-Files)
-
-
-
 
